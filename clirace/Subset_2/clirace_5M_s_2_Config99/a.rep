@@ -1,0 +1,43 @@
+MAX-MIN Ant System for QAP, V0.99
+
+Parameter Settings
+
+tries 1
+local search 3
+rho 0.170000
+
+ants 63
+
+iterations 1
+
+time 10.000000
+
+Initialization time 0.001647
+
+begin problem taillard.60.13.dat
+begin try 1
+best 7558650	cycle 1	steps 1	time 0.23
+best 7537248	cycle 1	steps 1	time 0.23
+best 7517586	cycle 1	steps 1	time 0.23
+best 7514608	cycle 1	steps 1	time 0.23
+best 7513276	cycle 2	steps 2	time 0.45
+best 7498292	cycle 5	steps 5	time 1.09
+best 7487284	cycle 6	steps 6	time 1.31
+best 7483844	cycle 7	steps 7	time 1.52
+best 7478034	cycle 7	steps 7	time 1.52
+best 7474316	cycle 11	steps 11	time 2.37
+best 7471634	cycle 13	steps 13	time 2.79
+best 7459042	cycle 14	steps 14	time 3.00
+end try 1	 total-time 10.014977
+end problem taillard.60.13.dat
+t
+s 11	time 2.38
+best 7470172	cycle 11	steps 11	time 2.38
+best 7457322	cycle 12	steps 12	time 2.62
+best 7456022	cycle 22	steps 22	time 4.82
+best 7452784	cycle 46	steps 46	time 9.99
+best 7449664	cycle 47	steps 47	time 10.20
+best 7444136	cycle 47	steps 47	time 10.20
+best 7441974	cycle 47	steps 47	time 10.20
+end try 1	 total-time 10.203101
+end problem taillard.60.13.dat

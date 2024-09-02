@@ -1,0 +1,65 @@
+MAX-MIN Ant System for QAP, V0.99
+
+Parameter Settings
+
+tries 1
+local search 3
+rho 0.250000
+
+ants 15
+
+iterations 1
+
+time 20.000000
+
+Initialization time 0.001685
+
+begin problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+begin try 1
+best 449354	cycle 1	steps 1	time 0.10
+best 434486	cycle 2	steps 2	time 0.20
+best 429658	cycle 5	steps 5	time 0.51
+best 414326	cycle 6	steps 6	time 0.61
+best 409998	cycle 6	steps 6	time 0.61
+best 408474	cycle 7	steps 7	time 0.71
+best 406388	cycle 7	steps 7	time 0.71
+best 401242	cycle 7	steps 7	time 0.71
+best 399786	cycle 8	steps 8	time 0.81
+best 396688	cycle 8	steps 8	time 0.81
+best 396564	cycle 9	steps 9	time 0.88
+best 396136	cycle 21	steps 21	time 1.55
+best 389708	cycle 21	steps 21	time 1.55
+best 387894	cycle 24	steps 24	time 1.73
+best 387680	cycle 25	steps 25	time 1.79
+best 382838	cycle 25	steps 25	time 1.79
+best 381394	cycle 26	steps 26	time 1.84
+best 379218	cycle 26	steps 26	time 1.84
+best 377724	cycle 28	steps 28	time 1.96
+best 375900	cycle 30	steps 30	time 2.07
+best 375394	cycle 31	steps 31	time 2.12
+end try 1	 total-time 20.023520
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+me 3.50
+best 378340	cycle 58	steps 58	time 3.61
+end try 1	 total-time 20.022671
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+ 397724	cycle 21	steps 21	time 1.24
+best 397534	cycle 34	steps 34	time 1.99
+best 395544	cycle 67	steps 67	time 3.87
+best 395430	cycle 67	steps 67	time 3.87
+best 394580	cycle 68	steps 68	time 3.92
+best 394098	cycle 73	steps 73	time 4.21
+best 393932	cycle 74	steps 74	time 4.26
+best 393874	cycle 100	steps 100	time 5.77
+best 388418	cycle 103	steps 103	time 5.94
+best 382290	cycle 104	steps 104	time 6.00
+best 381292	cycle 105	steps 105	time 6.06
+best 381282	cycle 106	steps 106	time 6.12
+best 380818	cycle 107	steps 107	time 6.18
+best 380544	cycle 107	steps 107	time 6.18
+best 378718	cycle 125	steps 125	time 7.26
+best 378194	cycle 126	steps 126	time 7.32
+best 377724	cycle 126	steps 126	time 7.32
+best 376654	cycle 131	steps 131	time 7.63
+end try 1	 total-time 20.026364
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat

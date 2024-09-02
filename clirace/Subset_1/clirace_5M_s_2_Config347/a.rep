@@ -1,0 +1,59 @@
+MAX-MIN Ant System for QAP, V0.99
+
+Parameter Settings
+
+tries 1
+local search 3
+rho 0.470000
+
+ants 25
+
+iterations 1
+
+time 20.000000
+
+Initialization time 0.001684
+
+begin problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+begin try 1
+best 452838	cycle 1	steps 1	time 0.12
+best 437796	cycle 2	steps 2	time 0.22
+best 437268	cycle 3	steps 3	time 0.31
+best 434858	cycle 5	steps 5	time 0.50
+best 430314	cycle 6	steps 6	time 0.59
+best 429060	cycle 7	steps 7	time 0.68
+best 423038	cycle 8	steps 8	time 0.78
+best 417674	cycle 8	steps 8	time 0.78
+best 412018	cycle 9	steps 9	time 0.88
+best 385690	cycle 9	steps 9	time 0.88
+best 385536	cycle 10	steps 10	time 0.98
+best 384104	cycle 11	steps 11	time 1.08
+best 379582	cycle 12	steps 12	time 1.17
+best 379222	cycle 14	steps 14	time 1.36
+best 379102	cycle 85	steps 85	time 8.05
+best 377426	cycle 100	steps 100	time 9.45
+best 376654	cycle 102	steps 102	time 9.64
+best 375900	cycle 135	steps 135	time 12.77
+best 375394	cycle 136	steps 136	time 12.86
+end try 1	 total-time 20.055355
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+st 375394	cycle 77	steps 77	time 6.61
+end try 1	 total-time 20.043134
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+me 3.36
+best 382914	cycle 36	steps 36	time 3.45
+best 380976	cycle 36	steps 36	time 3.45
+best 380576	cycle 113	steps 113	time 10.69
+best 378236	cycle 113	steps 113	time 10.69
+best 377998	cycle 114	steps 114	time 10.79
+best 376186	cycle 116	steps 116	time 11.00
+best 375632	cycle 120	steps 120	time 11.39
+end try 1	 total-time 20.003130
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+le 53	steps 53	time 4.78
+best 380976	cycle 88	steps 88	time 7.74
+best 380802	cycle 103	steps 103	time 9.01
+best 379434	cycle 104	steps 104	time 9.10
+best 378340	cycle 106	steps 106	time 9.26
+end try 1	 total-time 20.031700
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat

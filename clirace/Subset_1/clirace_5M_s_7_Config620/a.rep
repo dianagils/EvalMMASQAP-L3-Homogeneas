@@ -1,0 +1,61 @@
+MAX-MIN Ant System for QAP, V0.99
+
+Parameter Settings
+
+tries 1
+local search 3
+rho 0.190000
+
+ants 8
+
+iterations 1
+
+time 20.000000
+
+Initialization time 0.000448
+
+begin problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+begin try 1
+best 450382	cycle 1	steps 1	time 0.03
+best 443952	cycle 2	steps 2	time 0.07
+best 439368	cycle 5	steps 5	time 0.15
+best 413948	cycle 5	steps 5	time 0.15
+best 413136	cycle 6	steps 6	time 0.18
+best 410506	cycle 6	steps 6	time 0.18
+best 405670	cycle 7	steps 7	time 0.20
+best 405298	cycle 8	steps 8	time 0.23
+best 404696	cycle 9	steps 9	time 0.26
+best 399888	cycle 9	steps 9	time 0.26
+best 396546	cycle 19	steps 19	time 0.53
+best 396480	cycle 20	steps 20	time 0.56
+best 394920	cycle 22	steps 22	time 0.62
+best 394700	cycle 22	steps 22	time 0.62
+best 394634	cycle 23	steps 23	time 0.64
+best 393452	cycle 24	steps 24	time 0.67
+best 392868	cycle 25	steps 25	time 0.70
+best 391564	cycle 28	steps 28	time 0.79
+best 388970	cycle 69	steps 69	time 1.91
+best 388198	cycle 71	steps 71	time 1.97
+best 387824	cycle 119	steps 119	time 3.30
+best 387542	cycle 120	steps 120	time 3.33
+best 387448	cycle 121	steps 121	time 3.36
+best 386144	cycle 122	steps 122	time 3.38
+best 384200	cycle 316	steps 316	time 8.78
+best 384136	cycle 320	steps 320	time 8.89
+best 382508	cycle 451	steps 451	time 12.57
+best 381190	cycle 452	steps 452	time 12.60
+best 379324	cycle 494	steps 494	time 13.77
+best 378686	cycle 495	steps 495	time 13.80
+best 377064	cycle 495	steps 495	time 13.80
+best 376938	cycle 496	steps 496	time 13.83
+best 376464	cycle 498	steps 498	time 13.88
+best 375542	cycle 542	steps 542	time 15.15
+best 375394	cycle 543	steps 543	time 15.18
+end try 1	 total-time 20.002416
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+	steps 138	time 3.85
+best 377724	cycle 272	steps 272	time 7.59
+best 376654	cycle 276	steps 276	time 7.70
+best 375394	cycle 475	steps 475	time 13.27
+end try 1	 total-time 20.023806
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat

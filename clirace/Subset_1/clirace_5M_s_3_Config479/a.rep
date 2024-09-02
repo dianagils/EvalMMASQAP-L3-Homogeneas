@@ -1,0 +1,57 @@
+MAX-MIN Ant System for QAP, V0.99
+
+Parameter Settings
+
+tries 1
+local search 3
+rho 0.490000
+
+ants 30
+
+iterations 1
+
+time 20.000000
+
+Initialization time 0.000497
+
+begin problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+begin try 1
+best 452838	cycle 1	steps 1	time 0.14
+best 444200	cycle 2	steps 2	time 0.29
+best 432546	cycle 2	steps 2	time 0.29
+best 429786	cycle 7	steps 7	time 0.99
+best 426012	cycle 8	steps 8	time 1.13
+best 411412	cycle 8	steps 8	time 1.13
+best 408462	cycle 8	steps 8	time 1.13
+best 402286	cycle 9	steps 9	time 1.27
+best 401500	cycle 10	steps 10	time 1.41
+best 401334	cycle 10	steps 10	time 1.41
+best 400372	cycle 11	steps 11	time 1.55
+best 396968	cycle 11	steps 11	time 1.55
+best 396466	cycle 12	steps 12	time 1.69
+best 395310	cycle 14	steps 14	time 1.97
+best 393874	cycle 17	steps 17	time 2.39
+best 393734	cycle 18	steps 18	time 2.53
+best 392432	cycle 20	steps 20	time 2.81
+best 388332	cycle 45	steps 45	time 6.36
+best 385806	cycle 46	steps 46	time 6.51
+best 380182	cycle 46	steps 46	time 6.51
+best 379464	cycle 47	steps 47	time 6.65
+best 378236	cycle 48	steps 48	time 6.79
+best 378160	cycle 133	steps 133	time 18.86
+best 376186	cycle 134	steps 134	time 19.00
+best 375632	cycle 135	steps 135	time 19.15
+end try 1	 total-time 20.008212
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+st 377752	cycle 73	steps 73	time 10.35
+best 377016	cycle 133	steps 133	time 18.87
+end try 1	 total-time 20.016869
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+t 382940	cycle 68	steps 68	time 9.69
+best 382400	cycle 68	steps 68	time 9.69
+best 381736	cycle 70	steps 70	time 9.98
+best 381572	cycle 71	steps 71	time 10.12
+best 379582	cycle 72	steps 72	time 10.26
+best 379222	cycle 74	steps 74	time 10.55
+end try 1	 total-time 20.072095
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat

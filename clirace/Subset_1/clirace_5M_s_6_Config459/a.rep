@@ -1,0 +1,60 @@
+MAX-MIN Ant System for QAP, V0.99
+
+Parameter Settings
+
+tries 1
+local search 3
+rho 0.490000
+
+ants 23
+
+iterations 1
+
+time 20.000000
+
+Initialization time 0.000484
+
+begin problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+begin try 1
+best 452838	cycle 1	steps 1	time 0.09
+best 443088	cycle 2	steps 2	time 0.17
+best 442928	cycle 5	steps 5	time 0.42
+best 438954	cycle 6	steps 6	time 0.50
+best 435858	cycle 8	steps 8	time 0.66
+best 421880	cycle 8	steps 8	time 0.66
+best 417122	cycle 9	steps 9	time 0.74
+best 396656	cycle 9	steps 9	time 0.74
+best 393312	cycle 10	steps 10	time 0.82
+best 387172	cycle 10	steps 10	time 0.82
+best 386138	cycle 12	steps 12	time 0.98
+best 386010	cycle 12	steps 12	time 0.98
+best 385618	cycle 13	steps 13	time 1.06
+best 385482	cycle 19	steps 19	time 1.54
+best 384902	cycle 25	steps 25	time 2.01
+best 384282	cycle 27	steps 27	time 2.17
+best 379572	cycle 44	steps 44	time 3.54
+best 378236	cycle 46	steps 46	time 3.69
+best 377016	cycle 49	steps 49	time 3.94
+best 375900	cycle 141	steps 141	time 11.30
+best 375394	cycle 142	steps 142	time 11.38
+end try 1	 total-time 20.071080
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+910	cycle 36	steps 36	time 3.35
+best 391164	cycle 36	steps 36	time 3.35
+best 390394	cycle 36	steps 36	time 3.35
+best 390220	cycle 37	steps 37	time 3.44
+best 389432	cycle 38	steps 38	time 3.52
+best 388040	cycle 39	steps 39	time 3.61
+best 387500	cycle 39	steps 39	time 3.61
+best 387492	cycle 40	steps 40	time 3.69
+best 387318	cycle 40	steps 40	time 3.69
+best 386298	cycle 44	steps 44	time 4.03
+best 384424	cycle 45	steps 45	time 4.12
+best 379222	cycle 45	steps 45	time 4.12
+best 378458	cycle 109	steps 109	time 9.59
+best 377952	cycle 110	steps 110	time 9.68
+best 376464	cycle 110	steps 110	time 9.68
+best 375900	cycle 111	steps 111	time 9.76
+best 375394	cycle 111	steps 111	time 9.76
+end try 1	 total-time 20.000617
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat

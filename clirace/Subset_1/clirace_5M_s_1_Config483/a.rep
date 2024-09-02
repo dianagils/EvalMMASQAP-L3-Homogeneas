@@ -1,0 +1,61 @@
+MAX-MIN Ant System for QAP, V0.99
+
+Parameter Settings
+
+tries 1
+local search 3
+rho 0.270000
+
+ants 18
+
+iterations 1
+
+time 20.000000
+
+Initialization time 0.000432
+
+begin problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+begin try 1
+best 478294	cycle 1	steps 1	time 0.07
+best 470892	cycle 1	steps 1	time 0.07
+best 463334	cycle 2	steps 2	time 0.14
+best 451668	cycle 2	steps 2	time 0.14
+best 449862	cycle 3	steps 3	time 0.20
+best 441854	cycle 4	steps 4	time 0.27
+best 428048	cycle 4	steps 4	time 0.27
+best 416182	cycle 5	steps 5	time 0.34
+best 407626	cycle 5	steps 5	time 0.34
+best 404232	cycle 6	steps 6	time 0.41
+best 399978	cycle 6	steps 6	time 0.41
+best 396230	cycle 7	steps 7	time 0.48
+best 395892	cycle 7	steps 7	time 0.48
+best 378566	cycle 8	steps 8	time 0.55
+best 376654	cycle 12	steps 12	time 0.82
+best 376186	cycle 149	steps 149	time 10.26
+end try 1	 total-time 20.028810
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+1.52
+best 384942	cycle 71	steps 71	time 4.88
+best 383934	cycle 71	steps 71	time 4.88
+best 380190	cycle 75	steps 75	time 5.18
+end try 1	 total-time 20.056601
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+56.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+teps 58	time 4.14
+best 377834	cycle 100	steps 100	time 6.94
+best 377752	cycle 194	steps 194	time 13.24
+end try 1	 total-time 20.001370
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+1
+best 387162	cycle 163	steps 163	time 11.22
+best 387062	cycle 164	steps 164	time 11.29
+best 387036	cycle 164	steps 164	time 11.29
+best 386896	cycle 167	steps 167	time 11.49
+best 385508	cycle 168	steps 168	time 11.56
+best 384972	cycle 169	steps 169	time 11.63
+best 384726	cycle 170	steps 170	time 11.70
+best 384282	cycle 170	steps 170	time 11.70
+best 381604	cycle 218	steps 218	time 15.00
+best 381190	cycle 220	steps 220	time 15.14
+end try 1	 total-time 20.022576
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat

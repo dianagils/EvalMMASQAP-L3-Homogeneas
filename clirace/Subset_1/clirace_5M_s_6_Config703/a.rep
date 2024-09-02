@@ -1,0 +1,62 @@
+MAX-MIN Ant System for QAP, V0.99
+
+Parameter Settings
+
+tries 1
+local search 3
+rho 0.500000
+
+ants 22
+
+iterations 1
+
+time 20.000000
+
+Initialization time 0.001688
+
+begin problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+begin try 1
+best 452956	cycle 1	steps 1	time 0.15
+best 451198	cycle 2	steps 2	time 0.30
+best 449976	cycle 3	steps 3	time 0.45
+best 440414	cycle 7	steps 7	time 0.82
+best 432622	cycle 8	steps 8	time 0.90
+best 431076	cycle 9	steps 9	time 0.98
+best 429520	cycle 9	steps 9	time 0.98
+best 427168	cycle 10	steps 10	time 1.06
+best 423942	cycle 10	steps 10	time 1.06
+best 415334	cycle 10	steps 10	time 1.06
+best 411428	cycle 11	steps 11	time 1.13
+best 411080	cycle 11	steps 11	time 1.13
+best 410716	cycle 11	steps 11	time 1.13
+best 410452	cycle 12	steps 12	time 1.21
+best 409264	cycle 12	steps 12	time 1.21
+best 408716	cycle 12	steps 12	time 1.21
+best 385114	cycle 12	steps 12	time 1.21
+best 382910	cycle 13	steps 13	time 1.28
+best 380982	cycle 14	steps 14	time 1.36
+best 380452	cycle 16	steps 16	time 1.51
+best 380084	cycle 17	steps 17	time 1.59
+best 379622	cycle 20	steps 20	time 1.82
+best 377834	cycle 24	steps 24	time 2.12
+best 377752	cycle 72	steps 72	time 5.81
+best 376848	cycle 74	steps 74	time 5.96
+best 375900	cycle 76	steps 76	time 6.11
+best 375542	cycle 77	steps 77	time 6.19
+best 375394	cycle 77	steps 77	time 6.19
+end try 1	 total-time 20.071769
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+0.042829
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
+98	cycle 97	steps 97	time 7.47
+best 386032	cycle 98	steps 98	time 7.57
+best 385366	cycle 98	steps 98	time 7.57
+best 383670	cycle 183	steps 183	time 14.12
+best 381606	cycle 190	steps 190	time 14.65
+best 380598	cycle 191	steps 191	time 14.72
+best 380190	cycle 191	steps 191	time 14.72
+best 379180	cycle 227	steps 227	time 17.46
+best 377724	cycle 228	steps 228	time 17.53
+best 376654	cycle 229	steps 229	time 17.61
+end try 1	 total-time 20.006283
+end problem EuclideanStructured.1256749256.n60.K60.m10.A20.00.B4.00.sp20.00.dat
